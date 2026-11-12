@@ -7,5 +7,3 @@
 
 ## Deploy บน Vercel
 Framework Preset: **Other** · Build Command: ว่าง · Output Directory: ว่าง (ใช้ root)
-
-//ตัวอักษรเล็กไป
